@@ -255,6 +255,9 @@ footer i{
         max-width: 200px;
     }
     .description{
+        display: block;
+    }
+    .description:hover{
         display: flex;
         opacity: 1;
         flex-grow: 1;
