@@ -219,6 +219,9 @@ footer i{
     border-radius: 10px;
     background: #1259c3;
 }
+.submit_btn:hover{
+    background-color: #0022AA;
+}
 .btn_register{
     display: flex;
     justify-content: space-between;
@@ -322,6 +325,7 @@ footer i{
     .burger{
         display: none;
     }
+  
 }
 @media screen and (min-width:769px) {
     /* modify here */
